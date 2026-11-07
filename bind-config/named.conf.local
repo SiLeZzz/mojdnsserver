@@ -1,0 +1,4 @@
+zone "ledwon.lan" {
+    type master;
+    file "/etc/bind/db.ledwon.lan";
+};
