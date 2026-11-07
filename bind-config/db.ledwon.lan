@@ -1,6 +1,6 @@
 $TTL 604800
 @   IN  SOA ns1.ledwon.lan. admin.ledwon.lan. (
-            20260711   ; Serial
+            20260712   ; Serial
             604800     ; Refresh
             86400      ; Retry
             2419200    ; Expire
